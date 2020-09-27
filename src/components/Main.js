@@ -3,7 +3,7 @@ import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
-import karate_france from '../images/karate_france.jpg'
+
 import campania from '../images/campania.jpg'
 import hemi from '../videos/hemi.mp4'
 import flux from '../videos/flux.mp4'
@@ -233,7 +233,7 @@ class Main extends React.Component {
         >
           <h2 className="major">About Me</h2>
           <span className="image main">
-            <img src={karate_france} alt="" />
+            
             <p style={{ textAlign: 'right', fontSize: 'calc(12px + .5 * ((100vw - 320px) / 680))' }}>"Ben Normandy France 2017" - Photo by Max Ashby</p>
           </span>
           <p>
