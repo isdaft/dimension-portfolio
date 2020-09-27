@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Benjamin Ashby - Web Developer Portfolio,
+    title: 'Benjamin Ashby - Web Developer Portfolio',
     author: 'Benjamin Ashby',
     description: 'A simple portfolio showcasing the various works completed over the years.',
   },
